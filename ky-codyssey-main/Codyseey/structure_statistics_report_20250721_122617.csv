@@ -1,0 +1,7 @@
+﻿,area,area,x,x,x,y,y,y,ConstructionSite
+,count,nunique,mean,min,max,mean,min,max,<lambda>
+struct_name,,,,,,,,,
+ Apartment,5,4,6.0,1,14,9.6,5,14,3
+ BandalgomCoffee,2,1,2.5,2,3,12.0,12,12,0
+ Building,4,3,4.25,1,12,8.5,2,14,0
+ MyHome,1,1,14.0,14,14,2.0,2,2,0
